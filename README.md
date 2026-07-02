@@ -1,12 +1,12 @@
 # ConvertVideosToNokia
 I understand that not much documentation has been put into the nokia 255 4g, so this guide will help you convert videos to it.
 
-#Presiquites:
+Presiquites:
 1. An SD card for storing videos.
 2. A PC with FFMPEG installed.
 3. A video file. I reccommend Nzuri Video Downloader [https://nzurivideodownloader.vercel.app/] to download YouTube Videos, or just use any movies you already have already ripped.
 
-#Conversion:
+Conversion:
 I did the hard work. Now all you need to do is download the .bat file.
 Drag and drop your video (.webm, .mp4, .mkv are supported) onto the .bat file.
 If everything is sucsessful (you have ffmpeg installed) a cmd prompt should pop up. A time will appear at the bottom of the command prompt. That is the time in the video it is currently converting. Once finished, it will close.
