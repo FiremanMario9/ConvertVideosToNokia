@@ -4,7 +4,7 @@ I understand that not much documentation has been put into the nokia 255 4g, so 
 Presiquites:
 1. An SD card for storing videos.
 2. A PC with FFMPEG installed.
-3. A video file. I reccommend Nzuri Video Downloader [https://nzurivideodownloader.vercel.app/] to download YouTube Videos, or just use any movies/videos you already have (already ripped).
+3. A video file. I reccommend Nzuri Video Downloader [https://nzurivideodownloader.vercel.app/] to download YouTube Videos, or just use any movies/videos you already have.
 
 Conversion:
 I did the hard work. Now all you need to do is download the .bat file.
